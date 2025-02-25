@@ -1,0 +1,3 @@
+Getting info about movies:
+https://developer.themoviedb.org/docs/search-and-query-for-details
+
